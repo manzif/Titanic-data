@@ -31,4 +31,6 @@ $ yarn generate
 
 \$ On this page, we have three charts. One of them represents Titanic Data the two others represent dummy data to show how they might look.
 
+![Age vs survived](./static/images/firstpage.PNG?raw=true "Age vs survived")
+
 ![Data Representation](./static/images/representationpage.PNG?raw=true "Data Representation")
